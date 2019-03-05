@@ -19,4 +19,8 @@ To do:
 5. Find a better oscillator library or make one from scratch
 6. Add a menu to select MIDI controller
 
+Current state of the app:
+
+![sintulja](https://user-images.githubusercontent.com/46653661/53830270-57a15500-3f82-11e9-959c-a4863e5d3331.PNG)
+
 
